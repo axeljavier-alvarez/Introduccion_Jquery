@@ -1,0 +1,30 @@
+body{
+    background-image: url('../img/img1.jpg');
+    text-decoration: none;
+}
+
+
+.flecha{
+    width: 100px;
+}
+
+footer {
+    background-color: 	#332f2c;
+    color: white;
+    text-align: center;
+    height: 80px;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tabla2{
+    margin: auto;
+    width: 60%;
+}
+
+.celda{
+    text-align: center;
+}

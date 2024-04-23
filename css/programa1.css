@@ -1,0 +1,66 @@
+body{
+    background-image: url('../img/img1.jpg');
+}
+
+.flecha{
+    width: 100px;
+}
+
+footer {
+    background-color: 	#332f2c;
+    color: white;
+    text-align: center;
+    height: 80px;
+    font-size: 20px;
+
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#parrafos{
+    text-align: center;
+}
+
+.botonMostrar{
+    font-size: 20px;
+}
+
+.botonAzul{
+    width: 350px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#btn_mostrar{
+    margin-left: 60px;
+}
+#btn_ocultar{
+    margin-left: 10px; 
+}
+
+#btn_mostrar_despacio{
+    margin-left: 10px;
+}
+
+#btn_ocultar_despacio{
+    margin-left: 10px;
+}
+
+#btn_mostrar_rapido{
+    margin-left: 10px;
+}
+
+#btn_ocultar_rapido{
+    margin-left: 10px;
+}
+
+#btn_mostrar_slide{
+    margin-left: 10px;
+}
+
+#btn_ocultar_slideup{
+    margin-left: 10px;
+}
